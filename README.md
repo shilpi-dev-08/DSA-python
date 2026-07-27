@@ -1,3 +1,3 @@
 # DSA in python 
 
-This repository contains my DATA STRUCTURE AND ALGORITHMS practice in python 
+This repository contains my DATA STRUCTURE AND ALGORITHMS practice in python ...
